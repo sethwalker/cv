@@ -1,0 +1,7 @@
+.screen-only {
+  display: none;
+}
+a.no-print-link:link:after, a.no-print-link:visited:after, 
+.skills a:link:after, .skills a:visited:after {
+  content: normal;
+}

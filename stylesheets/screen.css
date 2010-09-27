@@ -1,0 +1,55 @@
+#header .adr {
+  width: 40%;
+  font-size: 1.2em; 
+  line-height: 1.25; 
+  font-weight: normal; 
+  color: #111111; 
+  display: block;
+}
+.contact {
+  width: 60%;
+}
+.education .adr {
+  font-size: .8em;
+  line-height: 1.25;
+  text-align: right;
+  float: right;
+  position: relative;
+}
+.experience h3 .org, .experience .adr {
+  text-align: right;
+  float: right;
+  position: relative;
+}
+.vevent .dates-and-location {
+  font-size:1.2em;
+  line-height:1.25;
+  margin-bottom:1.25em;
+}
+#header span.dash {
+  margin: 0 .15em;
+}
+.right {
+  text-align: right;
+}
+.badge {
+  margin-top: 4.5px;
+  float: right; 
+  width: 80px; 
+  height: 15px;
+}
+#linkedin {
+  background-image: url('http://www.linkedin.com/img/webpromo/btn_profile_bluetxt_80x15.gif'); 
+}
+#railsrankings {
+  background-image: url('http://railsrankings.com/images/badges/rr_badge_80x15.gif');
+}
+.badge span {
+  display: block; 
+  width: 0; 
+  height: 0; 
+  overflow: hidden;
+}
+.print-only {
+  display: none;
+}
